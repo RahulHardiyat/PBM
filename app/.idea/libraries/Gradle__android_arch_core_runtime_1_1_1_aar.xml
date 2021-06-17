@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: android.arch.core:runtime:1.1.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/5eef68563246f8b85354a80ab65fef1a/runtime-1.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/5eef68563246f8b85354a80ab65fef1a/runtime-1.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/5eef68563246f8b85354a80ab65fef1a/runtime-1.1.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/8358061da05e9c7116e89c72610e6981/runtime-1.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/8358061da05e9c7116e89c72610e6981/runtime-1.1.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/8358061da05e9c7116e89c72610e6981/runtime-1.1.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/modules-2/files-2.1/android.arch.core/runtime/1.1.1/25df553df10af32bede9dd768a2d15299543d84/runtime-1.1.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/modules-2/files-2.1/android.arch.core/runtime/1.1.1/25df553df10af32bede9dd768a2d15299543d84/runtime-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

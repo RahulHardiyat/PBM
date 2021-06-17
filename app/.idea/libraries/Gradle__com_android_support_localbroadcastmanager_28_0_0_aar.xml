@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:localbroadcastmanager:28.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/99806252982323a0ad24cd5491a676e0/localbroadcastmanager-28.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/99806252982323a0ad24cd5491a676e0/localbroadcastmanager-28.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/99806252982323a0ad24cd5491a676e0/localbroadcastmanager-28.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/9bc1a1cea31e544a760fa9e0b12df026/localbroadcastmanager-28.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/9bc1a1cea31e544a760fa9e0b12df026/localbroadcastmanager-28.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/9bc1a1cea31e544a760fa9e0b12df026/localbroadcastmanager-28.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

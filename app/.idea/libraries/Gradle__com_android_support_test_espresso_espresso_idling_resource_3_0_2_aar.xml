@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support.test.espresso:espresso-idling-resource:3.0.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/67f534779bd482eda459bbcff86bbd13/espresso-idling-resource-3.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/67f534779bd482eda459bbcff86bbd13/espresso-idling-resource-3.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/67f534779bd482eda459bbcff86bbd13/espresso-idling-resource-3.0.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/558ed98e63bd58af7418688710a6fbcb/espresso-idling-resource-3.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/558ed98e63bd58af7418688710a6fbcb/espresso-idling-resource-3.0.2/res" />
+      <root url="file://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/558ed98e63bd58af7418688710a6fbcb/espresso-idling-resource-3.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/modules-2/files-2.1/com.android.support.test.espresso/espresso-idling-resource/3.0.2/d4b16112a486446a92fc3dedce6b0d78ec57b09a/espresso-idling-resource-3.0.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/modules-2/files-2.1/com.android.support.test.espresso/espresso-idling-resource/3.0.2/d4b16112a486446a92fc3dedce6b0d78ec57b09a/espresso-idling-resource-3.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/modules-2/files-2.1/com.android.support.test.espresso/espresso-idling-resource/3.0.2/6071e2b310c16836ba475a94df377e2f75928546/espresso-idling-resource-3.0.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/modules-2/files-2.1/com.android.support.test.espresso/espresso-idling-resource/3.0.2/6071e2b310c16836ba475a94df377e2f75928546/espresso-idling-resource-3.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:asynclayoutinflater:28.0.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/a89d9b352284e4c32da672fa6d8cc4dc/asynclayoutinflater-28.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/a89d9b352284e4c32da672fa6d8cc4dc/asynclayoutinflater-28.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/a89d9b352284e4c32da672fa6d8cc4dc/asynclayoutinflater-28.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/3a31dcaf4f9cd768b4646d619b5c07b3/asynclayoutinflater-28.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/3a31dcaf4f9cd768b4646d619b5c07b3/asynclayoutinflater-28.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/3a31dcaf4f9cd768b4646d619b5c07b3/asynclayoutinflater-28.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

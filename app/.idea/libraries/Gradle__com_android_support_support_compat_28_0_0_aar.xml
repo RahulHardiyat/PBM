@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-compat:28.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/1f0c3086cc0c4f224f4a7d13e7d2d20d/support-compat-28.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/96a8d05edab9916604c5adb583ec33ae/support-compat-28.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/1f0c3086cc0c4f224f4a7d13e7d2d20d/support-compat-28.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/1f0c3086cc0c4f224f4a7d13e7d2d20d/support-compat-28.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/1f0c3086cc0c4f224f4a7d13e7d2d20d/support-compat-28.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/96a8d05edab9916604c5adb583ec33ae/support-compat-28.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/96a8d05edab9916604c5adb583ec33ae/support-compat-28.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Infomartika/s8/uas pmb/SewaRumah/.gradle/caches/transforms-2/files-2.1/96a8d05edab9916604c5adb583ec33ae/support-compat-28.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
